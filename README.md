@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning to code from Whitehajr
 
-  #ProudWhitehatjrStudent
+  #ProudWhitehatjrCoder
   
 ## My Git stats
 <img src="https://github-readme-stats.vercel.app/api?username=SOham2008&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Soham2008&theme=radical"/>|
