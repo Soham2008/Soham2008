@@ -1,6 +1,6 @@
 ###  🙃Heyo Coders!!
-<h1 align="center"> I'm Soham Swarup</h1>
-<h3 align="center">A Boy trying to Code out Stuff!!</h3>
+<h1 > I'm Soham Swarup</h1>
+<h3>A Boy trying to Code out Stuff!!</h3>
 
 - 🌱 I’m currently learning to code from Whitehajr
 
